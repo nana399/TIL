@@ -1,6 +1,6 @@
 #ソートアルゴリズムの作成
 
-def Sort(array)
+def sort(array)
   i = 0
   while i < array.length
     min = i 
@@ -21,4 +21,4 @@ def Sort(array)
 end
 
 numbers =  [10, 8, 3, 5, 2, 4, 11, 18, 20, 33]
-p Sort(numbers)
+p sort(numbers)
