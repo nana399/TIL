@@ -9,5 +9,9 @@
 - 4月から月ごとにTILをまとめています。
 
 ## TILのやり方参考記事
-- https://qiita.com/nemui_/items/239335b4ed0c3c797add
-- https://www.asobou.co.jp/blog/web/github-til
+- [Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する](https://qiita.com/nemui_/items/239335b4ed0c3c797add)
+- [Githubのリポジトリ「TIL」を作って今日学んだ知識をアウトプットしよう](https://www.asobou.co.jp/blog/web/github-til)
+<br>
+
+## 寿司打１万コース毎日チャレンジ🍣（毎週日曜日更新）
+[![Image from Gyazo](https://i.gyazo.com/33af9987341e83687868cf20950cb939.gif)](https://gyazo.com/33af9987341e83687868cf20950cb939)
