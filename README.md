@@ -14,4 +14,4 @@
 <br>
 
 ## 寿司打１万コース毎日チャレンジ🍣（毎週日曜日更新）
-[![Image from Gyazo](https://i.gyazo.com/c831459618824776271ed3f927958147.gif)](https://gyazo.com/c831459618824776271ed3f927958147)
+[![Image from Gyazo](https://i.gyazo.com/4c07fb7cbb9a5943e96e46ad30f7008d.gif)](https://gyazo.com/4c07fb7cbb9a5943e96e46ad30f7008d)
